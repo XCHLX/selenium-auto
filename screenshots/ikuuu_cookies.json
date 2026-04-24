@@ -1,0 +1,101 @@
+[
+    {
+        "domain": "ikuuu.org",
+        "expiry": 1777097975,
+        "httpOnly": false,
+        "name": "key",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ffc2410e540843e7b68c105f6b716495375938980c9d9"
+    },
+    {
+        "domain": "ikuuu.org",
+        "expiry": 1777097975,
+        "httpOnly": false,
+        "name": "email",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "chen540605375%40gmail.com"
+    },
+    {
+        "domain": "ikuuu.org",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0rbqvktm72ko0ukf4gilbmpgpr"
+    },
+    {
+        "domain": "ikuuu.org",
+        "expiry": 1777097975,
+        "httpOnly": false,
+        "name": "uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "4162922"
+    },
+    {
+        "domain": "ikuuu.org",
+        "expiry": 1777097975,
+        "httpOnly": false,
+        "name": "ip",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "5548056b02d379cfb0ac5403f834a016"
+    },
+    {
+        "domain": "ikuuu.org",
+        "expiry": 1777097975,
+        "httpOnly": false,
+        "name": "expire_in",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1777097977"
+    },
+    {
+        "domain": ".ikuuu.org",
+        "expiry": 1811571579,
+        "httpOnly": false,
+        "name": "_ga_8HVN7928SC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS2.1.s1777011579$o1$g0$t1777011579$j60$l0$h0"
+    },
+    {
+        "domain": ".ikuuu.org",
+        "expiry": 1777097979,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.1402730930.1777011579"
+    },
+    {
+        "domain": ".ikuuu.org",
+        "expiry": 1777011639,
+        "httpOnly": false,
+        "name": "_gat_gtag_UA_158605448_1",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".ikuuu.org",
+        "expiry": 1811571579,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.757078900.1777011579"
+    }
+]
